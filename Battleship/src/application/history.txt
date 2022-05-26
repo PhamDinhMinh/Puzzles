@@ -1,0 +1,21 @@
+score:  61,count= 44
+score:  33,count= 33
+score:  30,count= 46
+score:  61,count= 43
+score:  23,count= 66
+score:  18,count= 56
+score:  63,count= 42
+           LOSE     
+           LOSE     
+score:  12,count= 65
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    

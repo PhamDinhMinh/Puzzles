@@ -1,0 +1,15 @@
+Welcome to Battleship - a game full of strategy and luck
+Game instructions:
+- Each side has a sea of 10 * 10 coordinates
+- The player will hide 5 ships in turn. from 1 to 5 into their own waters
+- In turn, parties will shoot into the squares of the changing waters, if they are hit, they will be fired again, they
+will lose their turns
+- A ship is down when it is fully shot. set or head shot
+- Game ends when one side is hit by an entire ship.
+Battleship developed by Team Smile includes:
++ Hoang Van Chien - 201943994
++ Ho Duc Han - 20194040
++ Trinh Quoc Dat - 20194015
++ Pham Dinh Minh - 20194122
++ Vu Ba Luong - 20194109
+All comments and suggestions, please send to the mailbox: chien.hv193994@sis.hust.edu.vn
